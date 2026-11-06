@@ -1,0 +1,29 @@
+# Bygg
+dist/
+build/
+installer/
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+*.spec.bak
+
+# Användardata (lokal utveckling)
+planer/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Temp / loggar
+*.log
+*.tmp
+
+# Skärmbildslogg
+manual_bilder/logg.txt
