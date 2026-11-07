@@ -202,6 +202,10 @@ summary::after { content: "+"; position: absolute; right: 22px; top: 50%; transf
 details[open] summary::after { content: "–"; }
 details p { margin: 0; padding: 0 22px 20px; color: var(--gra); }
 
+/* Tyck till */
+.formular { max-width: 760px; margin: 0 auto; }
+.formular iframe { width: 100%; height: 880px; border: 0; border-radius: var(--rund); background: #fff; box-shadow: 0 6px 20px rgba(23,53,64,.07); }
+
 /* Om */
 .om { display: grid; grid-template-columns: 1.4fr 1fr; gap: 30px; align-items: stretch; }
 .om .kort p { margin-bottom: 12px; font-size: 17px; }
@@ -254,6 +258,7 @@ footer a { color: #b9cfd5; }
       <a href="#funktioner">Funktioner</a>
       <a href="#installera">Installera</a>
       <a href="#fragor">Frågor</a>
+      <a href="#tyck-till">Tyck till</a>
     </nav>
     <a class="knapp" href="https://github.com/MagnusBaa/spar-och-pensionsplan/releases/latest/download/SparOchPensionsplan_Setup_1.0.exe">Ladda ner</a>
   </div>
@@ -501,7 +506,20 @@ footer a { color: #b9cfd5; }
   </div>
 </section>
 
-<section class="sand">
+<section id="tyck-till" class="sand">
+  <div class="bredd">
+    <div class="centrerad">
+      <h2>Tyck till om programmet</h2>
+      <p class="underrubrik">Vad är bra, vad kan bli bättre, eller fungerar något inte? Skriv här, så kommer det direkt till mig. Namn och e-post är frivilligt.</p>
+    </div>
+    <div class="formular">
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdFTp6yCPbGtNU9bPEcbDaVAjfSkvDbuxvWkH19IRjAw8GEqQ/viewform?embedded=true" title="Tyck till om Spar- och Pensionsplan" loading="lazy">Laddar…</iframe>
+      <p class="attrapp-text centrerad">Syns inte rutan? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdFTp6yCPbGtNU9bPEcbDaVAjfSkvDbuxvWkH19IRjAw8GEqQ/viewform">Öppna formuläret här</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section>
   <div class="bredd om">
     <div class="kort">
       <h2>Gjort av en amatör, för eget bruk</h2>
