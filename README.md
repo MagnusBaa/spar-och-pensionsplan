@@ -4,6 +4,8 @@ Ett gratis Windows-program för att hålla koll på konton och aktier i dag och 
 
 > *Jag är amatör och har gjort programmet för eget bruk, med hjälp av AI. Jag delar det gärna, men det finns ingen garanti och ingen support. Det är ett planeringsverktyg, inte finansiell rådgivning.*
 
+**Hemsida med bilder och installationshjälp: [magnusbaa.github.io/spar-och-pensionsplan](https://magnusbaa.github.io/spar-och-pensionsplan/)**
+
 **Gillar du programmet? Swisha gärna 100 kr till 070-091 33 10. Tack!**
 
 ![Översikten](manual_bilder/23_oversikt_klar.png)
