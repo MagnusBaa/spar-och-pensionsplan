@@ -6,6 +6,8 @@ Ett gratis Windows-program för att hålla koll på konton och aktier i dag och 
 
 **Hemsida med bilder och installationshjälp: [magnusbaa.github.io/spar-och-pensionsplan](https://magnusbaa.github.io/spar-och-pensionsplan/)**
 
+**Film, 3 minuter: [Så funkar det på YouTube](https://youtu.be/MjsEwXYrh08)**
+
 **Gillar du programmet? Swisha gärna 100 kr till 070-091 33 10. Tack!**
 
 ![Översikten](manual_bilder/23_oversikt_klar.png)
